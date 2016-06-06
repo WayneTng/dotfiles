@@ -1,8 +1,8 @@
 [user]
-	email = stevenyap@futureworkz.com
-	name = Steven Yap
+	email = wayne@futureworkz.com
+	name = Wayne Tng
 [core]
-	excludesfile = /Users/stevenyap/.gitignore_global
+	excludesfile = /Users/fwz/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
